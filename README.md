@@ -1,7 +1,9 @@
 <h1> Seja bem vindo ao meu perfil do Github! 👋 </h1>
 <p>Tenho 18 anos, moro em São Paulo - SP. Desde pequeno, sempre tive muito interesse e vontade de aprender sobre o ramo da tecnologia e as inovações que ela pode proporcionar a nossa vida. Atualmente, quero focar no Desenvolvimento Back End 👨‍💻 </p> 
 <p>👨‍🎓  Cursando Bacharel em Sistemas de Informação pela UNIP </p>
-<p>📖  Aprendendo novas tecnologias pela Harvard University. Como: C, Python, Flask, Javascript e SQL</p>
+<p>📚  Aprendendo novas tecnologias pela Harvard University. Como: C, Python, Flask, Javascript e SQL</p>
+<p>🌎  Também sou fluente em Inglês</p>
+<br>
 
 ## Tecnologias 🖥️
 Algumas das tecnologias que ja conheço ou estou aprendendo
@@ -15,6 +17,7 @@ Algumas das tecnologias que ja conheço ou estou aprendendo
 
 ## Contato 📫
 <a href="https://www.linkedin.com/in/gustavo-quirino-saraiva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href = "mailto:gustavoqsaraiva76@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <br>
 
 
