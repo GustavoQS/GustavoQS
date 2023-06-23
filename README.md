@@ -1,7 +1,15 @@
-### Gustavo Quirino Saraiva 
-<hr>
-## Seja bem vindo ao meu perfil do Github! 👋
-Tenho 18 anos, moro em São Paulo - SP. Tenho muito entusiasmo e interesse em tecnologia e programação no geral! 👨‍💻
+<br>
+<h1> Gustavo Quirino Saraiva </h1>
+
+<br>
+<br>
+
+<h2> Seja bem vindo ao meu perfil do Github! 👋 </h2> <br>
+<p>Tenho 18 anos, moro em São Paulo - SP 🚩</p> <br>
+<p>Tenho muito entusiasmo e interesse em tecnologia e programação no geral! 👨‍💻</p> <br><br>
+<p>👨‍🎓 Atualmente, cursando Bacharel em Sistemas de Informação pela UNIP </p><br>
+<p>📖 Aprendendo novas tecnologias pela Harvard University. Como: C, Python, Flask, Javascript e SQL</p> <br>
+
 
 <br><br>
 
@@ -16,8 +24,7 @@ Algumas das tecnologias que ja conheço ou estou aprendendo
 
 <br><br>
 
-👨‍🎓 Atualmente, cursando Bacharel em Sistemas de Informação pela UNIP <br>
-📖 Aprendendo novas tecnologias pela Harvard University. Como: C, Python, Flask, Javascript e SQL <br>
+
 
 <br>
 
