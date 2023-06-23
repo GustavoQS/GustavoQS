@@ -1,16 +1,7 @@
-<br>
-<h1> Gustavo Quirino Saraiva </h1>
-<p>Tenho 18 anos, moro em São Paulo - SP 🚩</p>
-<p>Tenho muito entusiasmo e interesse em tecnologia e programação no geral! 👨‍💻</p> 
-<br>
-<br>
-
-<h2> Seja bem vindo ao meu perfil do Github! 👋 </h2>
-<p>👨‍🎓 Atualmente, cursando Bacharel em Sistemas de Informação pela UNIP </p>
-<p>📖 Aprendendo novas tecnologias pela Harvard University. Como: C, Python, Flask, Javascript e SQL</p>
-
-
-<br><br>
+<h1> Seja bem vindo ao meu perfil do Github! 👋 </h1>
+<p>Tenho 18 anos, moro em São Paulo - SP. Desde pequeno, sempre tive muito interesse e vontade de aprender sobre o ramo da tecnologia e as inovações que ela pode proporcionar a nossa vida. Atualmente, quero focar no Desenvolvimento Back End 👨‍💻 </p> 
+<p>👨‍🎓  Cursando Bacharel em Sistemas de Informação pela UNIP </p>
+<p>📖  Aprendendo novas tecnologias pela Harvard University. Como: C, Python, Flask, Javascript e SQL</p>
 
 ## Tecnologias 🖥️
 Algumas das tecnologias que ja conheço ou estou aprendendo
@@ -20,16 +11,10 @@ Algumas das tecnologias que ja conheço ou estou aprendendo
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40px" height="40px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40px" height="40px"/>
 </div>
-
-<br><br>
-
-
-
 <br>
 
 ## Contato 📫
 <a href="https://www.linkedin.com/in/gustavo-quirino-saraiva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-
 <br>
 
 
