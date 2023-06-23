@@ -20,17 +20,19 @@ Algumas das tecnologias que ja conheço ou estou aprendendo
 <a href = "mailto:gustavoqsaraiva76@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <br>
 <hr>
+
+<!--
+GITHUB STATS
 <div>
 <a href="https://github.com/seu-usuário-aqui">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoQS&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GustavoQS&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
-
+-->
 
 
 
 <!--
-
 - 📖 Atualmente, cursando Bacharel em Sistemas de Informação pela UNIP
 - 🌱 Atualmente estou aprendendo C, Python e Javascript, através de Harvard (CS50x23) 
 - 👯 Estou procurando colaborar em ...
