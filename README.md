@@ -3,10 +3,7 @@
 <p>👨‍🎓  Cursando Bacharel em Sistemas de Informação pela UNIP </p>
 <p>📚  Aprendendo novas tecnologias pela Harvard University. Como: C, Python, Flask, Javascript e SQL</p>
 <p>🌎  Também sou fluente em Inglês</p>
-<br>
-
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-          
+<br>          
 
 ## Tecnologias 🖥️
 Algumas das tecnologias que ja conheço ou estou aprendendo
@@ -17,7 +14,7 @@ Algumas das tecnologias que ja conheço ou estou aprendendo
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="80px" height="80px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="80px" height="80px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="80px" height="80px"/>
-  <i class="devicon-flask-original" width="80px" height="80px" style="background-color: black"></i>
+  <div style="background-color: white; display: block; width: 80px; height: 80px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="80px" height="80px"/></div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="80px" height="80px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="80px" height="80px"/>
 </div>
