@@ -1,9 +1,9 @@
 <h1 align="center">Olá 👋, Bem vindo ao meu perfil do Github</h1>
 <h3 align="center">Estudante de Sistemas de Informação</h3>
-- 👨‍🎓  Cursando Bacharel em **Sistemas de Informação** pela UNIP
-- 📚  Aprendendo novas tecnologias de **Back-End**
-- 🌱  Desenvolvendo projetos de **Back-End** e **Front-End**
-- 🌎  Também sou **fluente em Inglês**
+- 👨‍🎓  Cursando Bacharel em **Sistemas de Informação** pela UNIP<br>
+- 📚  Aprendendo novas tecnologias de **Back-End**<br>
+- 🌱  Desenvolvendo projetos de **Back-End** e **Front-End** <br>
+- 🌎  Também sou **fluente em Inglês**<br>
 <br>          
 
 ## Tecnologias 🖥️
