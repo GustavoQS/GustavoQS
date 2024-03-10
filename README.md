@@ -1,29 +1,20 @@
-<h1 align="center">Olá 👋, Bem vindo ao meu perfil do Github</h1>
-<h3 align="center">Estudante de Sistemas de Informação</h3>
+<h1 align="center">Hi There 👋, I'm Gustavo</h1>
+<h3 align="center">A passionate software developer</h3>
 
-- 👨‍🎓  Cursando Bacharel em **Sistemas de Informação** pela UNIP
-- 📚  Aprendendo novas tecnologias de **Back-End**
-- 🌱  Desenvolvendo projetos de **Back-End** e **Front-End**
-- 🌎  Também sou **fluente em Inglês**        
+- 👨‍🎓  Bachelor of Science in Information Systems (Sistemas de Informação)
+- 📚  I’m currently learning **Spring, PostgreSQL, Angular**
+- 💬  Ask me about **Web Development**
+- 🌎  Fluent in **English**
 
-## Tecnologias 🖥️
-Algumas das tecnologias que ja conheço ou estou aprendendo
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="60px" height="60px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="60px" height="60px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="60px" height="60px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="60px" height="60px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60px" height="60px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="60px" height="60px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="60px" height="60px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="60px" height="60px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="60px" height="60px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60px" height="60px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="60px" height="60px" />  
+## Tools 🛠
+
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=java,spring,python,flask,js,bootstrap,html,css" /><br>
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,git,linux" /><br>
 </div>
 <br>
 
-## Contato 📫
+## Contact me 📫
 <a href="https://www.linkedin.com/in/gustavo-quirino-saraiva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href = "mailto:gustavoqsaraiva@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <!--<a href = "mailto:gustavoqsaraiva@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>-->
