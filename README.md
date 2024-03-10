@@ -1,5 +1,9 @@
+
 <h1 align="center">Hi There 👋, I'm Gustavo</h1>
-<h3 align="center">A passionate software developer</h3>
+
+<h3 align="center">A passionate software developer</h3> <img src="https://64.media.tumblr.com/ebf74887520abe1b1fbed76f463af135/tumblr_pew3zxiCR71rnbw6mo1_1280.gif" width="300" align="right">
+
+
 
 - 👨‍🎓  Bachelor of Science in Information Systems (Sistemas de Informação)
 - 📚  I’m currently learning **Spring, PostgreSQL, Angular**
@@ -8,7 +12,7 @@
 
 ## Tools 🛠
 
-<div align="center">
+<div align="center" width="100%">
     <img src="https://skillicons.dev/icons?i=java,spring,python,flask,js,bootstrap,html,css" /><br>
     <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,git,linux" /><br>
 </div>
